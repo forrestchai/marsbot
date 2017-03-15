@@ -1,0 +1,21 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot1"
+  ],
+  "author": "shch",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "nodemailer": "^3.1.7",
+    "nodemailer-wellknown": "^0.2.2",
+    "request-promise": "^4.1.1",
+    "restify": "^4.3.0"
+  }
+}
